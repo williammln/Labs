@@ -1,0 +1,37 @@
+.gallery {
+    width: 100;
+
+    display: flex;
+}
+
+.gallery img {
+    width: 250px;
+    height: 150px;
+    border: 1px solid ;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+}
+
+.gallery img:hover {
+    box-shadow: 0 0 10px #000;
+    cursor: pointer;
+}
+
+.gallery p {
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    width: 180px;
+}
+
+.row1 {
+    
+}
+
+.row2 {
+    
+}
